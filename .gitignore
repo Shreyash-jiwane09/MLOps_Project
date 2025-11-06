@@ -206,3 +206,13 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+#demo files
+/demo.py
+
+
+artifact/
+logs/
+
+draw_project_structure.py
